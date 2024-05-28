@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-flask-app:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-05-28T06:24:43.18439669+02:00"
+    description: A Helm chart for Kubernetes
+    digest: a572ea07f7bcafc3a9b90d84312b3a9b1223279df355166a7b2370bacc0c45e0
+    name: my-flask-app
+    type: application
+    urls:
+    - my-flask-app.tgz
+    version: 0.1.0
+generated: "2024-05-28T06:24:43.183996046+02:00"
